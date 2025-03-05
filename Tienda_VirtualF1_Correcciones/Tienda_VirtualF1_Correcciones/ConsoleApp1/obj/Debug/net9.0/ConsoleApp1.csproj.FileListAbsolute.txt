@@ -1,0 +1,43 @@
+C:\Users\elvis\Documents\2025\UPB\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+C:\Users\elvis\Documents\2025\UPB\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+C:\Users\elvis\Documents\2025\UPB\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+C:\Users\elvis\Documents\2025\UPB\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+C:\Users\elvis\Documents\2025\UPB\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\elvis\Documents\2025\UPB\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvis\Documents\2025\UPB\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\elvis\Documents\2025\UPB\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\elvis\Documents\2025\UPB\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\elvis\Documents\2025\UPB\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json
+C:\Users\elvis\Documents\2025\UPB\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+C:\Users\elvis\Documents\2025\UPB\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+C:\Users\elvis\Documents\2025\UPB\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\elvis\Documents\2025\UPB\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\elvis\Documents\2025\UPB\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
+C:\Users\salak401\Desktop\Nueva carpeta\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+C:\Users\salak401\Desktop\Nueva carpeta\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+C:\Users\salak401\Desktop\Nueva carpeta\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+C:\Users\salak401\Desktop\Nueva carpeta\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+C:\Users\salak401\Desktop\Nueva carpeta\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\salak401\Desktop\Nueva carpeta\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak401\Desktop\Nueva carpeta\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\salak401\Desktop\Nueva carpeta\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\salak401\Desktop\Nueva carpeta\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\salak401\Desktop\Nueva carpeta\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+C:\Users\salak401\Desktop\Nueva carpeta\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+C:\Users\salak401\Desktop\Nueva carpeta\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\salak401\Desktop\Nueva carpeta\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\salak401\Desktop\Nueva carpeta\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
+C:\Users\elvis\Documents\2025\Programacion de software\Tienda_VirtualF1_Correcciones\Tienda_VirtualF1_Correcciones\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+C:\Users\elvis\Documents\2025\Programacion de software\Tienda_VirtualF1_Correcciones\Tienda_VirtualF1_Correcciones\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+C:\Users\elvis\Documents\2025\Programacion de software\Tienda_VirtualF1_Correcciones\Tienda_VirtualF1_Correcciones\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+C:\Users\elvis\Documents\2025\Programacion de software\Tienda_VirtualF1_Correcciones\Tienda_VirtualF1_Correcciones\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+C:\Users\elvis\Documents\2025\Programacion de software\Tienda_VirtualF1_Correcciones\Tienda_VirtualF1_Correcciones\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\elvis\Documents\2025\Programacion de software\Tienda_VirtualF1_Correcciones\Tienda_VirtualF1_Correcciones\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvis\Documents\2025\Programacion de software\Tienda_VirtualF1_Correcciones\Tienda_VirtualF1_Correcciones\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\elvis\Documents\2025\Programacion de software\Tienda_VirtualF1_Correcciones\Tienda_VirtualF1_Correcciones\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\elvis\Documents\2025\Programacion de software\Tienda_VirtualF1_Correcciones\Tienda_VirtualF1_Correcciones\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\elvis\Documents\2025\Programacion de software\Tienda_VirtualF1_Correcciones\Tienda_VirtualF1_Correcciones\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+C:\Users\elvis\Documents\2025\Programacion de software\Tienda_VirtualF1_Correcciones\Tienda_VirtualF1_Correcciones\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+C:\Users\elvis\Documents\2025\Programacion de software\Tienda_VirtualF1_Correcciones\Tienda_VirtualF1_Correcciones\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\elvis\Documents\2025\Programacion de software\Tienda_VirtualF1_Correcciones\Tienda_VirtualF1_Correcciones\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\elvis\Documents\2025\Programacion de software\Tienda_VirtualF1_Correcciones\Tienda_VirtualF1_Correcciones\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
