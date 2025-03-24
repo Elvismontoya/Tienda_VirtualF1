@@ -444,7 +444,8 @@ public class Usuarios
     public string Direccion { get; set; }
     public string Rol { get; set; }
     public string Telefono { get; set; }
-    public List<Facturas>? Factura { get; set; } = new List<Facturas>();
+    public int Pedido { get; set; }
+    public Pedidos? _Pedido { get; set; }
 }
 
 public class Pedidos
@@ -454,7 +455,6 @@ public class Pedidos
     public DateTime FechaCompra { get; set; }
     public string Direccion { get; set; }
     public int Envio {get;set;}
-    public List<Facturas>? Factura { get; set; } = new List<Facturas>(); 
     public Envios? _Envio { get; set; }
 }
 
@@ -482,7 +482,8 @@ public class Facturas
     public Pedidos? _Pedido { get; set; }
     public Usuarios? _Usuario { get; set; }
     public Metodos_De_Pagos? _Metodos_De_Pago { get; set; }
-    public List<Productos_Facturas>? ProductosFactura { get; set; } = new List<Productos_Facturas>();
+    public List<Productos_Facturas> ProductosFactura { get; set; } = new List<Productos_Facturas>();
+
 }
 
 public class Metodos_De_Pagos
@@ -490,7 +491,6 @@ public class Metodos_De_Pagos
     public int Id { get; set; }
     public string TipoPago { get; set; }
     public string Descripcion { get; set; }
-    public List<Facturas>? Factura { get; set; } = new List<Facturas>();
 }
 
 public class Productos
@@ -502,7 +502,6 @@ public class Productos
     public int Categoria { get; set; }
     public string Material { get; set; }
     public Categorias? _Categoria { get; set; }
-    public List<Productos_Facturas>? ProductosFactura { get; set; } = new List<Productos_Facturas>();
 }
 
 public class Categorias
@@ -510,7 +509,6 @@ public class Categorias
     public int Id { get; set; }
     public string Nombre { get; set; }
     public string Descripcion { get; set; }
-    public List<Productos>? Producto { get; set; } = new List<Productos>();
 }
 
 public class Productos_Facturas
